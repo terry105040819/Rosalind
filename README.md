@@ -1,1 +1,1 @@
-Just some practice for Rosiland bioinformatics test
+## Just some practice for Rosalind bioinformatics test
