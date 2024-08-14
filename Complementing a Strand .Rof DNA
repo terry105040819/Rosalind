@@ -7,9 +7,6 @@ Given: A DNA string s of length at most 1000 bp.
 
 Return: The reverse complement sc of s.
 
-
-
-
 # Answer(Lazy solution)
 seq_rev <- readLines("~/Desktop/rosalind_revc (2).txt")
 seq_rev <- stringi::stri_reverse(seq_rev)
